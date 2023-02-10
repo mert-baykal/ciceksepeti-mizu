@@ -1,0 +1,101 @@
+.products {
+    &-items {
+        margin-top: 30px;
+
+        img {
+            margin-right: 5px;
+        }
+
+        &__title {
+            font-size: 20px;
+            color: #707070;
+            font-weight: normal;
+            margin-bottom: 10px;
+        }
+    }
+
+    &-item {
+        max-width: 272px;
+        text-align: left;
+        border: 1px solid #E2E7E9;
+        border-radius: 10px;
+        padding: 15px;
+
+        &__desc {
+            font-size: 15px;
+            font-weight: 600;
+        }
+
+        &__info {
+            color: #51B549;
+            font-size: 15px;
+        }
+
+        &__price {
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        &__counter {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border: 1px solid #E2E7E9;
+            border-radius: 25px;
+
+            &.-hidden {
+                display: none;
+            }
+        }
+
+        &__contexts {
+            height: 114px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        &__button {
+            &-btn {
+                max-width: 242px;
+                width: 100%;
+                border: 1px solid #044DC3;
+                border-radius: 22px;
+                color: #044DC3;
+                background: white;
+                cursor: pointer;
+                padding: 10px 0px;
+                font-size: 15px;
+
+                &.-hidden {
+                    display: none;
+                }
+
+                &:hover {
+                    background: #044DC3;
+                    color: white;
+                }
+            }
+        }
+
+        &__decrease {
+            border: none;
+            max-width: fit-content;
+            padding-left: 5px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+            background: transparent;
+            cursor: pointer;
+        }
+
+        &__increase {
+            border: none;
+            max-width: fit-content;
+            padding-right: 5px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+            background: transparent;
+            cursor: pointer;
+        }
+    }
+}

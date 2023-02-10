@@ -1,0 +1,268 @@
+[
+    {
+        "product_image": "/assets/products/prod-1.png",
+        "price": 399.90,
+        "name": "Z6 Akıllı Saat Kameralı Konuşma Garantili Sim Kartlı Bluetooth",
+        "offers": "Free Delivery",
+        "categories": [
+            "electronic",
+            "book",
+            "sports",
+            "life"
+        ],
+        "quantity": 1,
+        "id":1
+    },
+    {
+        "product_image": "/assets/products/prod-2.png",
+        "price": 145.61,
+        "name": "Calvin Klein Euphoria EDP 100 ml Kadın Parfüm",
+        "offers": "",
+        "categories": [
+            "home",
+            "sports",
+            "pet"
+        ],
+        "quantity": 1,
+        "id":2
+    },
+    {
+        "product_image": "/assets/products/prod-3.png",
+        "price": 249.90,
+        "name": "Gold Çizgili Vazoda 2 Dal Orkide Çiçeği",
+        "offers": "Free Delivery",
+        "categories": [
+            "home",
+            "book",
+            "sports",
+            "petshop"
+        ],
+        "quantity":1,
+        "id":3
+    },
+    {
+        "product_image": "/assets/products/prod-4.png",
+        "price": 329.90,
+        "name": "925 Ayar Gümüş Çeyreklik Bileklik (Y)",
+        "offers": "",
+        "categories": [
+            "electronic",
+            "home",
+            "book",
+            "parfume"
+        ],
+        "quantity":1,
+        "id":4
+    },
+    {
+        "product_image": "/assets/products/prod-5.png",
+        "price": 499.90,
+        "name": "Sailor SD-3160 Siyah Dağcı Seyahat Sırt Çantası 55 LT Outdoor-Trekking",
+        "offers": "Free Delivery",
+        "categories": [
+            "electronic",
+            "book",
+            "sports",
+            "selfcare"
+        ],
+        "quantity": 1,
+        "id":5
+    },
+    {
+        "product_image": "/assets/products/prod-6.png",
+        "price": 145.61,
+        "name": "Büyük Boy Metal Osmanlı Bizans Satranç Takımı Parlak ve Cev...",
+        "offers": "Free Delivery",
+        "categories": [
+            "home",
+            "sports",
+            "office"
+        ],
+        "quantity": 1,
+        "id":6
+    },
+    {
+        "product_image": "/assets/products/prod-7.png",
+        "price": 89.90,
+        "name": "130 Cm Papyonlu Büyük Ayıcı (%100 Yerli)",
+        "offers": "Free Delivery",
+        "categories": [
+            "home",
+            "book",
+            "sports",
+            "fashion"
+        ],
+        "quantity": 1,
+        "id":7
+    },
+    {
+        "product_image": "/assets/products/prod-8.png",
+        "price": 29.90,
+        "name": "925 Ayar Gümüş Dualı İsimli Nazar İğnesi",
+        "offers": "",
+        "categories": [
+            "electronic",
+            "home",
+            "book",
+            "gift"
+        ],
+        "quantity": 1,
+        "id":8
+    },
+    {
+        "product_image": "/assets/products/prod-9.png",
+        "price": 59.90,
+        "name": "Özel Tatlar Çikolata Kutusu 300 gr",
+        "offers": "Free Delivery",
+        "categories": [
+            "home",
+            "book",
+            "sports",
+            "flowers"
+        ],
+        "quantity": 1,
+        "id":9
+    },
+    {
+        "product_image": "/assets/products/prod-10.png",
+        "price": 29.90,
+        "name": "Kucak Dolusu Aşk 25 Kırmızı Gül Buketi",
+        "offers": "",
+        "categories": [
+            "electronic",
+            "home",
+            "book",
+            "sports"
+        ],
+        "quantity": 1,
+        "id":10
+    },
+    {
+        "product_image": "/assets/products/prod-1.png",
+        "price": 399.90,
+        "name": "lorem çiçek 11",
+        "offers": "Free Delivery",
+        "categories": [
+            "electronic",
+            "book",
+            "sports",
+            "toy"
+        ],
+        "quantity": 1,
+        "id":11
+    },
+    {
+        "product_image": "/assets/products/prod-2.png",
+        "price": 145.61,
+        "name": "lorem çiçek 12",
+        "offers": "",
+        "categories": [
+            "home",
+            "sports"
+        ],
+        "quantity": 1,
+        "id":12
+    },
+    {
+        "product_image": "/assets/products/prod-3.png",
+        "price": 249.90,
+        "name": "lorem çiçek 13",
+        "offers": "Free Delivery",
+        "categories": [
+            "home",
+            "book",
+            "sports"
+        ],
+        "quantity": 1,
+        "id":13
+    },
+    {
+        "product_image": "/assets/products/prod-4.png",
+        "price": 329.90,
+        "name": "lorem çiçek 14",
+        "offers": "",
+        "categories": [
+            "electronic",
+            "home",
+            "book"
+        ],
+        "quantity": 1,
+        "id":14
+    },
+    {
+        "product_image": "/assets/products/prod-5.png",
+        "price": 499.90,
+        "name": "lorem çiçek 15",
+        "offers": "Free Delivery",
+        "categories": [
+            "electronic",
+            "book",
+            "sports"
+        ],
+        "quantity": 1,
+        "id":15
+    },
+    {
+        "product_image": "/assets/products/prod-6.png",
+        "price": 145.61,
+        "name": "lorem çiçek 16",
+        "offers": "Free Delivery",
+        "categories": [
+            "home",
+            "sports"
+        ],
+        "quantity": 1,
+        "id":16
+    },
+    {
+        "product_image": "/assets/products/prod-7.png",
+        "price": 89.90,
+        "name": "lorem  17",
+        "offers": "Free Delivery",
+        "categories": [
+            "home",
+            "book",
+            "sports"
+        ],
+        "quantity": 1,
+        "id":17
+    },
+    {
+        "product_image": "/assets/products/prod-8.png",
+        "price": 29.90,
+        "name": "lorem ipsum 18",
+        "offers": "",
+        "categories": [
+            "electronic",
+            "home",
+            "book"
+        ],
+        "quantity": 1,
+        "id":18
+    },
+    {
+        "product_image": "/assets/products/prod-9.png",
+        "price": 59.90,
+        "name": "lorem sadasd 19",
+        "offers": "Free Delivery",
+        "categories": [
+            "home",
+            "book",
+            "sports"
+        ],
+        "quantity": 1,
+        "id":19
+    },
+    {
+        "product_image": "/assets/products/prod-10.png",
+        "price": 29.90,
+        "name": "lorem sadasd 20",
+        "offers": "",
+        "categories": [
+            "electronic",
+            "home",
+            "book"
+        ],
+        "id":20
+    }
+]

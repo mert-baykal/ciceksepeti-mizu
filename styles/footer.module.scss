@@ -1,0 +1,125 @@
+.footer {
+    background: #F2F2F2;
+    margin-top: 105px;
+
+    &__top {
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+        z-index: 1;
+        position: relative;
+
+        &::after {
+            content: '';
+            width: 1480px;
+            position: absolute;
+            height: 222px;
+            background: white;
+            border-radius: 111px;
+            z-index: -1;
+            display: block;
+            top: 146px;
+        }
+
+        &-info {
+            margin-left: 30px;
+            margin-bottom: 30px;
+
+            &_content {
+                display: flex;
+                align-items: center;
+                margin-bottom: 27px;
+            }
+
+            &_desc {
+                margin-left: 20px;
+
+                p {
+                    strong {
+                        font-size: 18px;
+                    }
+                }
+            }
+
+            &_links {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 10px;
+            }
+        }
+    }
+
+    &__middle {
+        display: flex;
+        margin-top: 100px;
+        justify-content: space-between;
+
+        &-infos {
+            max-width: 545px;
+            border-right: 1px dashed #9B9B9B;
+
+            &_logo {
+                margin-bottom: 30px;
+            }
+
+            &_social {
+                display: flex;
+                gap: 30px;
+                margin-bottom: 30px;
+            }
+
+            &_content {
+                font-size: 15px;
+                font-weight: normal;
+
+                a {
+                    color: black;
+                }
+            }
+        }
+
+        &-menus {
+            display: flex;
+            gap: 81px;
+
+            &_item {
+                text-align: center;
+
+                ul {
+                    list-style: none;
+                }
+
+                a {
+                    text-decoration: none;
+                    color: black;
+                    font-size: 15px;
+                }
+            }
+
+            &-title {
+                font-size: 18px;
+                color: #044DC3;
+                margin-bottom: 10px;
+            }
+
+            &_links ul li {
+                margin-bottom: 9px;
+            }
+        }
+    }
+
+    &__bottom {
+        font-size: 15px;
+        margin-top: 88px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    &__copyrights {
+        font-size: 15px;
+        background: #E6E6E6;
+        padding-top: 22px;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+}
