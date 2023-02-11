@@ -20,7 +20,7 @@ const Cart = () => {
             </div>
         }
 
-        return <div>Bravo!!!</div>
+        return <div>Kargo bedava!</div>
     }
 
 useEffect(() => {

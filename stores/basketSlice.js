@@ -56,7 +56,6 @@ const store = createSlice({
                 if (item.data.id === payload.id) {
                     // Mevcut ürün adedi 1 ise sepetten çıkar
                     if (item.quantity === 1) {
-                        console.log('Silindi')
                         return false;
                     }
 
